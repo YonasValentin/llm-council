@@ -1,5 +1,7 @@
 # llm-council
 
+[![Sponsor](https://img.shields.io/github/sponsors/YonasValentin?label=Sponsor&logo=github)](https://github.com/sponsors/YonasValentin)
+
 A Claude Code skill that stops you from trusting the first answer you get.
 
 You ask Claude a question. You get one answer. It sounds smart. You move on. Two days later you realize the answer was shaped by how you asked, not by what was true. This skill fixes that. It spins up five advisors with genuinely different thinking styles, has them answer your question independently, makes them peer-review each other anonymously, and gives you a verdict with a single clear next step.
@@ -161,6 +163,25 @@ If a council comes out thin, look at the framing. Nine times out of ten the thin
 Read the peer-review section first. The chairman verdict is a good summary, but the single most valuable paragraph in any council is usually the "what did all five miss?" block.
 
 Do not run the council when you have already decided. It will tell you uncomfortable things. That is the entire point. If you are not ready to hear it, skip it.
+
+## Support this skill
+
+This skill is free and open source. If it has saved you from a bad decision, consider chipping in.
+
+GitHub Sponsors is the best way to fund ongoing work. Sponsors get first dibs on feature requests and help pay for new advisor styles.
+
+One-time support works too:
+
+- [Buy me a coffee](https://www.buymeacoffee.com/YonasValentin) for a one-off tip
+- [Star the repo](https://github.com/YonasValentin/llm-council) so others can find it
+- [Open an issue](https://github.com/YonasValentin/llm-council/issues) when the council gives you something weird or wrong
+
+<a href="https://github.com/sponsors/YonasValentin">
+  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor on GitHub" />
+</a>
+<a href="https://www.buymeacoffee.com/YonasValentin">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+</a>
 
 ## License
 
